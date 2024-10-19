@@ -1,6 +1,6 @@
 # Laravel course
 ## Laravel | PHP
 
-Curriculum of an official 50-hour course completed at the academy  [Ademass](https://campus-ademass.com/), very comprehensive.
+Course completed in Laravel at the Ademass campus.  [Ademass](https://campus-ademass.com/)
 
 Here my certificate [My-certificate](https://campus-ademass.com/aut/13318)
